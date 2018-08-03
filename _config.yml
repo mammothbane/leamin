@@ -9,7 +9,6 @@ github_username:  mammothbane
 
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 sass:
@@ -23,3 +22,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .idea
