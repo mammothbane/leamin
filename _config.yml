@@ -2,8 +2,8 @@ title: Leamin
 email: avaglir@gmail.com
 description: >-
   A site for our D&D campaign.
-baseurl: ""
-url: ""
+baseurl: /leamin
+url: "/leamin"
 author: mammothbane
 github_username:  mammothbane
 
