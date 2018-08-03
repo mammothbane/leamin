@@ -4,7 +4,7 @@ description: >-
   A site for our D&D campaign.
 baseurl: ""
 url: ""
-twitter_username: mammothbane
+author: mammothbane
 github_username:  mammothbane
 
 markdown: kramdown
