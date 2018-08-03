@@ -1,0 +1,21 @@
+title: Conwayland
+email: avaglir@gmail.com
+description: >-
+  A site for our D&D campaign.
+baseurl: ""
+url: ""
+twitter_username: mammothbane
+github_username:  mammothbane
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
