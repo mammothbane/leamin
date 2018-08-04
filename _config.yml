@@ -3,9 +3,11 @@ email: avaglir@gmail.com
 description: >-
   A site for our D&D campaign.
 baseurl: /leamin
-url: "/leamin"
+url: /leamin
 author: mammothbane
 github_username:  mammothbane
+
+google_analytics: UA-123406315-1
 
 markdown: kramdown
 plugins:
