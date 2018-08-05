@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
 <div class="home">
     {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -9,21 +11,18 @@ layout: default
 
     {{ content }}
 
-    {%- if site.posts.size > 0 -%}
+    {%- if site.categories.summary.size > 0 -%}
     <h2 class="post-list-heading">Session Summaries</h2>
     <ul class="post-list">
-        {%- for post in site.posts -%}
+        {%- for post in site.categories.summary -%}
+            {%- assign post_index = site.categories.summary.size | minus: forloop.index | plus: 1 %}
             <li>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">Session {{ forloop.index }} — {{ post.date | date: date_format }}</span>
+                <span class="post-meta">Session {{ post_index }} — {{ post.date | date: date_format }}</span>
                 <h3>
                     <a class="post-link" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                     </a>
                 </h3>
-                {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-                {%- endif -%}
             </li>
         {%- endfor -%}
     </ul>

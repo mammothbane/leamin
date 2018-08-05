@@ -1,12 +1,14 @@
 title: Leamin
 email: avaglir@gmail.com
+author: mammothbane
+
 description: >-
   A site for our D&D campaign.
+
 baseurl: /leamin
 url: /leamin
-author: mammothbane
-github_username:  mammothbane
 
+github_username:  mammothbane
 google_analytics: UA-123406315-1
 
 markdown: kramdown
@@ -25,3 +27,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .idea
+  - README.md

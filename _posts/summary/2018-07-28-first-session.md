@@ -3,7 +3,8 @@ layout: post
 title:  Numlash's debut
 author: aethira, mammothbane, boomshticky
 date:   2018-07-28 19:00:00 -0400
-categories: dnd summary
+tags: dnd summary
+category: summary
 ---
 
 #### It is the 14th of Ai-El; a Càirnday with hardly a cloud in the sky. The year is 834.
