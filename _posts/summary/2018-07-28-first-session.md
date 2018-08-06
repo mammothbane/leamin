@@ -120,13 +120,12 @@ and shoddy weapons, as well as a note that says:
 
 Zelvar interrogates the party's new prisoner, demanding to know who gave him his
 orders. After some persuading, the goblin reveals that he works for 'Numlash',
-who Henri reveals (after a moment of intense focus) to be Numlash the Irritable,
-the leader of a troop of goblins who have been harassing travelers in the area
-for some time. The group resolves to keep the prisoner around, hoping that he
-will be of use as a hostage or source of further information.  Tenoch tucks him
-under one arm and puts Rowan on his back, and everyone continues on down the
-road.
-
+who Henri discovers (after a moment of intense focus) to be Numlash the
+Irritable, the leader of a troop of goblins who have been harassing travelers in
+the area for some time. The group resolves to keep the prisoner around, hoping
+that he will be of use as a hostage or source of further information. Tenoch
+tucks him under one arm and puts Rowan on his back, and everyone continues on
+down the road.
 
 ### Rowan's farm
 After walking for some time, Rowan informs the group that they
