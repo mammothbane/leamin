@@ -135,8 +135,8 @@ danger Rowan's parents had warned him about. They tie up their goblin prisoner f
 
 
 ### The next day
-In the morning, Veria talks to Rowan about his sister. They are both half elves&mdash;Rowan is 13 and Aida, his sister,
-is a young adult now. She never wanted to be a farmer, but she didn't want to go off to war like her brothers either.
+In the morning, Veria talks to Rowan about his sister. She is called Aida, and they are both half elves&mdash;Rowan is 13,
+and Aida is a young adult now. She never wanted to be a farmer, but she didn't want to go off to war like her brothers either.
 She often wandered where she wasn't supposed to, and their parents didn't like the company she kept.
 
 The party sets off down the path they were following yesterday, until their goblin prisoner protests that they shouldn't
