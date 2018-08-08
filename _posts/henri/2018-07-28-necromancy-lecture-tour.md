@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tenoch
+title:  "TODO: Necromancy Lecture Tour (For Kids?)"
 author: kfrar
 date:   2018-07-28 19:00:00 -0400
 iw_date: Ai-El 14, 834

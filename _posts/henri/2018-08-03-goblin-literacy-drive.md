@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Can goblins write?
+title:  "TODO: Goblin Literacy Drive?"
 author: kfrar
 date:   2018-08-03 21:00:00 -0400
 iw_date: Ai-El 15, 834
