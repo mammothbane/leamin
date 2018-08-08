@@ -186,6 +186,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  margin-bottom: 0;
 }
 
 .post-list {
@@ -197,7 +198,15 @@
   }
 }
 
+.post-list-container {
+  padding: 22px;
+  margin: 10px;
+  box-shadow: 2px 2px 6px rgba(1, 1, 1, 0.3);
+  border-radius: 3px;
+}
+
 .post-meta {
+  margin-top: 0;
   font-size: $small-font-size;
   color: $grey-color;
 }

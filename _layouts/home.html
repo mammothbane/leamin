@@ -11,20 +11,46 @@ layout: default
 
     {{ content }}
 
-    {%- if site.categories.summary.size > 0 -%}
-    <h2 class="post-list-heading">Session Summaries</h2>
-    <ul class="post-list">
-        {%- for post in site.categories.summary -%}
-            {%- assign post_index = site.categories.summary.size | minus: forloop.index | plus: 1 %}
-            <li>
-                <span class="post-meta">Session {{ post_index }} — {{ post.date | date: date_format }}</span>
-                <h3>
-                    <a class="post-link" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape }}
-                    </a>
-                </h3>
-            </li>
-        {%- endfor -%}
-    </ul>
-    {%- endif -%}
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap">
+        {%- if site.categories.summary.size > 0 -%}
+        <div class="post-list-container">
+            <h2 class="post-list-heading">Session Summaries</h2>
+            <p class="post-list-description">Overview of events in each session</p>
+            <ul class="post-list">
+                {%- for post in site.categories.summary -%}
+                    {%- assign post_index = site.categories.summary.size | minus: forloop.index | plus: 1 %}
+                    <li>
+                        <h3 style="margin-bottom: 0">
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+
+                        <span class="post-meta">Session {{ post_index }} — {{ post.date | date: date_format }}</span>
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+        {%- endif -%}
+
+        {%- if site.categories.henri.size > 0 -%}
+        <div class="post-list-container">
+            <h2 class="post-list-heading">Henri's Journal</h2>
+            <p class="post-list-description">Journal entries from our own Henri Shortfellow</p>
+            <ul class="post-list">
+                {%- for post in site.categories.henri -%}
+                    <li>
+                        <h3 style="margin-bottom: 0">
+                            <a class="post-link" href="{{ post.url | relative_url }}">
+                                {{ post.title | escape }}
+                            </a>
+                        </h3>
+
+                        <span class="post-meta">{{ post.iw_date }} • {{ post.date | date: date_format }}</span>
+                    </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+        {%- endif -%}
+    </div>
 </div>
