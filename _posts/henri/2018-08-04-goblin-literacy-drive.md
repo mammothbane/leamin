@@ -2,7 +2,7 @@
 layout: post
 title:  "TODO: Goblin Literacy Drive?"
 author: kfrar
-date:   2018-08-03 21:00:00 -0400
+date:   2018-08-04 21:00:00 -0400
 iw_date: Ai-El 15, 834
 tags: dnd henri
 category: henri
