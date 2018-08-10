@@ -7,8 +7,7 @@ tags: dnd summary
 category: summary
 ---
 
-#### It is the 14th of Ai-El; a Càirnday with hardly a cloud in the sky. The
-year is 834.
+#### It is the 14th of Ai-El; a Càirnday with hardly a cloud in the sky. The year is 834.
 
 The Grivian Empire is a proud and mighty Empire, led by His Imperial Majesty
 Olyn Solian IV. The year is young, and festivals for the harvest have begun to
