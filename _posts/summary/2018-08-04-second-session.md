@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Numlash 2
+title:  Numlash's tragic end
 author: mammothbane
 date:   2018-08-04 21:00:00 -0400
 tags: dnd summary
