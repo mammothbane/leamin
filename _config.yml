@@ -28,3 +28,4 @@ exclude:
   - vendor/ruby/
   - .idea
   - README.md
+  - notes
