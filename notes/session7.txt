@@ -1,0 +1,89 @@
+- we're out for the morning but convene at a tavern for lunch
+- a large man in armor comes up to us, who veria recognizes as one of the pallies from yesterday. he has an insignium of si on his breastplate.
+- he invites us over to the temple of si.
+- henri goes to get the plague victim from yesterday, and zelvar makes a stretcher for her
+- we go to the temple, and it looks different than it did a couple of days ago. there are paladins out front and an aromatic fire in a metal pit. there is a staging area/war room set up around a map as the paladins look at a map. priestesses are administering treatment. prisoners rescued yesterday are also here being attended to.
+- we're introduced to head paladin ryker, who leads us back to the map table
+- there are circles drawn on the map, one around the marketplace, another at the monument of heroes, and several others we don't recognize
+- he says that these are confirmed or suspected sites of cult activity
+- ezra has helped them find some others
+- he asks us if we have any other information, and we relay what we saw yesterday in the catacombs, as well as whatever information we have about the structure of the cult
+- veria goes to hand over the raven statuette, and ryker pulls out a leather bag into which she put it
+- henri hands over a summary of the information he's discovered about the disease from the plague victim
+- ezra bursts in, asking when he's going to be announced as the one who started the inquisition against the cultists.
+- olivier has been turned over to the church by the guard, was going to be made an example of, but is going to hold off because of the plague
+- he wants our help investigating the sites he's marked on the map in a less conspicuous way than a paladin swat team
+- he's planning on quarantining the city later today
+
+## map overview
+- the outer wall of the city is octagonal and there are roads heading northeast, northwest (which is where we arrived), and due south
+- the monument of heroes is on a hill in the center of town
+- norther part is the merchant district
+- residential district in the southwest
+- southeast is religious/administrative
+- two circles in religious district, one in residential 
+- residential circle - incident where a guardsman saw two cloaked figures in the middle of the night
+- northern religious one is where the city stores are, he's worried about defending the stores during a quarantine and cloaked figures have been sighted there
+- southern religious one is a barracks where olivier is being kept, someone was quite interested in olivier who has now been detained
+- we go to the stores/warehouses, of which there are 3
+- henri detects evil in a boarded-up building across the street, asks the paladins if they knew
+- they apparently didn't, were mostly focused on the warehouses, but give us permission to break in
+- the evil started moving away
+- tenoch starts yelling a lot of fourth-wall-breaking things, breaks down the door and runs upstairs
+- a crash sounds
+- there's a chair that seems to have been facing the warehouses, but is now overturned, and the window on the back of the house has been broken
+- tenoch moves to it, but ezra runs past him and jumps out, followed by zelvar, tenoch, and veria. henri and barent walk out the back door.
+- there's a guy running down the street
+- barent sends carl after him with a touch of fatigue and he slows down
+- we catch him around the corner and he pulls out a vial of green liquid, which he threatens to throw on the ground
+- ezra and tenoch run at him, and he rears back to throw, but ezra grabs his arm
+- we intimidate him and ask him if there was any more plague
+- he says yes but doesn't want to tell us where it is
+- henri pulls out his own bottle of plague and walks over to him
+- the other drugs are at the safehouse in the residential district
+- we try to get him to tell us where the safehouse is on henri's map
+- ezra says we won't kill him if he tells us
+- he tells us
+- tenoch drags him back to the paladins
+- we go back in the house to look it over
+- we go back outside and discover that one of the paladins is illusiony
+- henri tells tenoch this in draconic so as not to alarm him
+- tenoch grapples the man, yelling that he's fake news
+- everyone realizes it's an illusion
+- we go around and count all the paladins
+- we find 2 dead ones in a warehouse
+- ezra finds a hole in the side of the warehouse and crawls through it. it just leads outside.
+- we berate the paladins for their incompetence
+- a lot of the crates are contaminated
+- take the prisoners back to the temple
+- we suggest that they ought to increase the guard at the food store
+- we point out the safehouse and point it out to ryker, he brings a group of paladins
+- the lord's castle is on a nearby hill to the northeast
+- a couple of paladins stand on watch
+- ryker detects evil in the building
+- we suggest that the building be surrounded so they wouldn't get out, but the paladins tell us to do it ourselves
+- we go around the back and hear a crash in the front after a few seconds
+- tenoch kicks in the back door
+- there are a few people around but also a hatch in the ground, which tenoch, veria, and ezra hustle down
+- they knock out a cleric, then run down the tunnel
+- barent sleeps one man
+- the paladins restrain him then go upstairs
+- barent and henri try to interrogate the cleric, don't get anything out of him
+- there's a crash, ryker stumbles down the stairs and there's green plague goo running down as well
+- paladins and one cultist have been infected
+- the tunnel snakes have figured out that their passage connects to the catacombs
+- tenoch runs back and gets henri and barent
+
+=======
+
+Gibbet’s Blight: a disease based off of the mundane disease known as Gibbet’s Rot, magically enhanced with Necromantic magics designed to hinder disease-curing spells.
+
+Symptoms: Initially inflicts the patient with fevers, weakness, and dehydration, worsening over time. Eventually, the disease’s effects spread to the patient’s mind, inflicting delirium, dementia, and other assorted mental maladies, which also grow worse with time. If left untreated, these gradually mounting symptoms will result in death.
+
+Lethality: High.
+
+Timeframe: The disease lies dormant for 2-3 days, before the first symptoms start to appear. From there, the symptoms worsen until the patient dies in around 7 days.
+
+Transmissibility: Moderate. Can be spread through the air, but is not particularly virulent through this vector - simple distance and basic sanitation will thwart it. However, it is highly transmissible through direct contact or fluid exchange, so good sanitary practice is essential to avoid infection when handling patients.
+
+Treatment: Should clerical aid be unavailable, Gibbet’s Rot is generally treated mundanely through sanitary practice and miscellaneous natural medicines, with… some success. As clerical aid is unreliable in the treatment of the enhanced Gibbet’s Blight, either superior mundane medicines or some method of dispelling or bypassing the Blight’s necromantic magics will be necessary to treat any significant body of patients.
